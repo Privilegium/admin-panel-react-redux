@@ -1,0 +1,54 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": "387d6b3b-d683-4d52-a24f-8cd3ff0ad55a",
+      "name": "fdsfdsf",
+      "description": "fsdfsdf",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "text": "All",
+      "className": "outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "text": "Fire",
+      "className": "danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "text": "Water",
+      "className": "primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "text": "Wind",
+      "className": "success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "text": "Earth",
+      "className": "secondary"
+    }
+  ]
+}
